@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Speech2Text/static/css/main.6e1afa75.chunk.css",
+    "main.js": "/Speech2Text/static/js/main.b4c85df6.chunk.js",
+    "main.js.map": "/Speech2Text/static/js/main.b4c85df6.chunk.js.map",
+    "runtime~main.js": "/Speech2Text/static/js/runtime~main.3071a92a.js",
+    "runtime~main.js.map": "/Speech2Text/static/js/runtime~main.3071a92a.js.map",
+    "static/css/2.e40df323.chunk.css": "/Speech2Text/static/css/2.e40df323.chunk.css",
+    "static/js/2.659c4473.chunk.js": "/Speech2Text/static/js/2.659c4473.chunk.js",
+    "static/js/2.659c4473.chunk.js.map": "/Speech2Text/static/js/2.659c4473.chunk.js.map",
+    "index.html": "/Speech2Text/index.html",
+    "precache-manifest.4b9468ff09679424c1d9c1a421768065.js": "/Speech2Text/precache-manifest.4b9468ff09679424c1d9c1a421768065.js",
+    "service-worker.js": "/Speech2Text/service-worker.js",
+    "static/css/2.e40df323.chunk.css.map": "/Speech2Text/static/css/2.e40df323.chunk.css.map",
+    "static/css/main.6e1afa75.chunk.css.map": "/Speech2Text/static/css/main.6e1afa75.chunk.css.map",
+    "static/media/a.png": "/Speech2Text/static/media/a.6d28c665.png",
+    "static/media/b.png": "/Speech2Text/static/media/b.61bbc30d.png",
+    "static/media/c.png": "/Speech2Text/static/media/c.413af027.png"
+  }
+}
